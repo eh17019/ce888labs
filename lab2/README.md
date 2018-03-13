@@ -47,5 +47,9 @@ Bootstrap confidence of the new fleet
 ![logo](./bootstrap_confidence_Newfleet.png?raw=true)
 
 
+Are the standard deviations comparable?
+
+Yes they are. this is because the boundaries of the standard deviations does not overlap with each other. They are not within the range of each other.
+
 
 
